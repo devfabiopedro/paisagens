@@ -1,2 +1,2 @@
 # Paisagens
-Aplicação em Django que exibe paisagens
+Aplicação em Django que exibe paisagens.
